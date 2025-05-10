@@ -4,23 +4,20 @@ from flatlib.geopos import GeoPos
 from flatlib import const
 from dateutil import parser
 
-# Главные планеты
 PLANETS = [
     const.SUN, const.MOON, const.MERCURY, const.VENUS, const.MARS,
     const.JUPITER, const.SATURN, const.URANUS, const.NEPTUNE, const.PLUTO
 ]
 
-# Дополнительные точки, которые может не поддерживать flatlib
 EXTRAS = ['CHIRON', 'LILITH', 'SELENA', 'MEAN_NODE', 'PARTFORTUNE']
 
 
 def to_dms_coord(value, is_lat=True):
     deg = abs(int(float(value)))
     minutes = int(abs(float(value) - deg) * 60)
-    if is_lat:
-        direction = 'n' if float(value) >= 0 else 's'
-    else:
-        direction = 'e' if float(value) >= 0 else 'w'
+    direction = 'n' if is_lat and float(value) >= 0 else \
+                's' if is_lat else \
+                'e' if float(value) >= 0 else 'w'
     return f"{deg}{direction}{minutes:02d}"
 
 
@@ -29,31 +26,24 @@ def calculate_natal(date_str, time_str, lat, lon):
         parsed = parser.parse(f"{date_str} {time_str}")
         date_fmt = parsed.strftime("%Y/%m/%d")
         time_fmt = parsed.strftime("%H:%M")
-        datetime = Datetime(date_fmt, time_fmt, '+03:00')  # Москва
+        datetime = Datetime(date_fmt, time_fmt, '+03:00')
         pos = GeoPos(to_dms_coord(lat, True), to_dms_coord(lon, False))
         chart = Chart(datetime, pos, hsys=const.HOUSES_PLACIDUS)
 
         planets = []
-        for obj in PLANETS:
-            planet = chart.get(obj)
-            planets.append({
-                'name': planet.id,
-                'sign': planet.sign,
-                'degree': planet.lon,
-                'house': planet.house,
-            })
-
-        for obj in EXTRAS:
+        for obj in PLANETS + EXTRAS:
             try:
                 planet = chart.get(obj)
-                planets.append({
+                result = {
                     'name': planet.id,
                     'sign': planet.sign,
-                    'degree': planet.lon,
-                    'house': planet.house,
-                })
+                    'degree': planet.lon
+                }
+                if hasattr(planet, 'house'):
+                    result['house'] = getattr(planet, 'house', None)
+                planets.append(result)
             except Exception as e:
-                print(f"⚠️ Не удалось получить {obj}: {e}")
+                print(f"⚠️ Ошибка при обработке {obj}: {e}")
 
         return {
             'mode': 'astro',
@@ -65,6 +55,6 @@ def calculate_natal(date_str, time_str, lat, lon):
 
     except Exception as err:
         return {
-            'error': f'Невозможно разобрать дату/время или координаты: {err}',
+            'error': f"Невозможно разобрать дату/время или координаты: {err}",
             'mode': 'error'
         }
