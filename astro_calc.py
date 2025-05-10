@@ -15,7 +15,7 @@ def calculate_natal(date_str, time_str, lat, lon):
         parsed = parser.parse(f"{date_str} {time_str}")
         datetime = Datetime(parsed.strftime("%Y/%m/%d"), parsed.strftime("%H:%M"), '+00:00')
         pos = GeoPos(lat, lon)
-        chart = Chart(datetime, pos, hsys='P')
+        chart = Chart(datetime, pos, hsys='PL')  # <- Поменяли здесь P -> PL
 
         planets = []
         for obj in PLANETS + ['CHIRON', 'LILITH', 'SELENA', 'MEAN_NODE', 'PARTFORTUNE']:
