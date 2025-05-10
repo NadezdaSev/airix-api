@@ -16,7 +16,7 @@ def calculate_natal(date_str, time_str, lat, lon):
         date_fmt = parsed.strftime("%Y/%m/%d")
         time_fmt = parsed.strftime("%H:%M")
         datetime = Datetime(date_fmt, time_fmt, '+03:00')  # Москва
-        pos = GeoPos(str(lat), str(lon))
+        pos = GeoPos(str(float(lat)), str(float(lon)))
         chart = Chart(datetime, pos, hsys=const.HOUSES_PLACIDUS)
 
         planets = []
