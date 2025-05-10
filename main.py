@@ -1,26 +1,28 @@
 from fastapi import FastAPI, Request
 from astro_calc import calculate_natal
-import yaml
+from stars_calc import calculate_star_positions
 
 app = FastAPI()
 
-with open("airix_config.yml", "r", encoding="utf-8") as f:
-    config = yaml.safe_load(f)
 
 @app.post("/natal")
-async def natal_endpoint(request: Request):
-    data = await request.json()
-    if data.get("mode") == "semantic":
-        return {
-            "mode": "semantic",
-            "message": "🧠 Семантический режим активен. Расчёт не выполняется.",
-        }
-
-    result = calculate_natal(
-        date_str=data["birth_date"],
-        time_str=data["birth_time"],
-        lat=data["latitude"],
-        lon=data["longitude"]
-    )
-    result["config_used"] = config.get("analysis_rules", {})
+async def natal_chart(req: Request):
+    data = await req.json()
+    birth_date = data.get("birth_date")
+    birth_time = data.get("birth_time")
+    latitude = data.get("latitude")
+    longitude = data.get("longitude")
+    timezone = data.get("timezone")
+    mode = data.get("mode", "astro")
+    
+    result = calculate_natal(birth_date, birth_time, latitude, longitude)
+    result["mode"] = mode
     return result
+
+
+@app.post("/stars")
+async def stars_chart(req: Request):
+    data = await req.json()
+    birth_date = data.get("birth_date")
+    birth_time = data.get("birth_time")
+    return calculate_star_positions(birth_date, birth_time)
