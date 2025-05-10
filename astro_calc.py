@@ -1,7 +1,12 @@
 from flatlib.chart import Chart
 from flatlib.datetime import Datetime
 from flatlib.geopos import GeoPos
-from flatlib.const import PLANETS, POINTS
+from flatlib import const
+PLANETS = [
+    const.SUN, const.MOON, const.MERCURY, const.VENUS, const.MARS,
+    const.JUPITER, const.SATURN, const.URANUS, const.NEPTUNE, const.PLUTO
+]
+POINTS = [const.ASC, const.MC, const.POF]
 
 def calculate_natal(date_str, time_str, lat, lon):
     datetime = Datetime(date_str, time_str, '+00:00')
