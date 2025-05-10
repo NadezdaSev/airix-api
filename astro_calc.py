@@ -23,4 +23,45 @@ def to_dms_coord(value, is_lat=True):
     else:
         direction = 'e' if float(value) >= 0 else 'w'
 
-    return
+    return f"{deg}{direction}{minutes:02d}"
+
+
+def calculate_natal(date_str, time_str, lat, lon):
+    try:
+        parsed = parser.parse(f"{date_str} {time_str}")
+        date_fmt = parsed.strftime("%Y/%m/%d")
+        time_fmt = parsed.strftime("%H:%M")
+        datetime = Datetime(date_fmt, time_fmt, '+03:00')  # Москва
+
+        lat_str = to_dms_coord(lat, is_lat=True)
+        lon_str = to_dms_coord(lon, is_lat=False)
+        pos = GeoPos(lat_str, lon_str)
+
+        chart = Chart(datetime, pos, hsys=const.HOUSES_PLACIDUS)
+
+        planets = []
+        for obj in PLANETS + ['CHIRON', 'LILITH', 'SELENA', 'MEAN_NODE', 'PARTFORTUNE']:
+            try:
+                planet = chart.get(obj)
+                planets.append({
+                    'name': planet.id,
+                    'sign': planet.sign,
+                    'degree': planet.lon,
+                    'house': planet.house,
+                })
+            except Exception as e:
+                print(f"Ошибка при расчёте объекта {obj}: {e}")
+
+        return {
+            'mode': 'astro',
+            'planets': planets,
+            'ASC': chart.get(const.ASC).sign,
+            'MC': chart.get(const.MC).sign,
+            'message': '⚙️ Астрологический расчёт выполнен',
+        }
+
+    except Exception as err:
+        return {
+            'error': f'Невозможно разобрать дату/время или координаты: {err}',
+            'mode': 'error'
+        }
