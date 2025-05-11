@@ -1,0 +1,701 @@
+iota Cetus | 0.87
+phi Eridanus | 0.93
+Kerb tau Pegasus | 1.02
+6 Lacerta | 1.4
+2 Lacerta | 2.22
+zeta Horologium | 2.42
+Deneb Kaitos beta Cetus | 2.53
+eta Horologium | 4.57
+eta Cepheus | 4.62
+theta Cepheus | 4.83
+5 Lacerta | 5.18
+4 Lacerta | 5.83
+delta Reticulum | 6.98
+alpha Reticulum | 7.42
+omicron Andromeda | 7.73
+kappa Eridanus | 7.88
+alpha Lacerta | 8.1
+iota Horologium | 8.17
+beta Lacerta | 8.6
+Algenib gamma Pegasus | 9.12
+eta Cetus | 11.7
+Alderamin alpha Cepheus | 12.73
+epsilon Cepheus | 13.0
+zeta Cepheus | 13.93
+delta Pisces | 14.1
+ | 14.27
+nu Cepheus | 14.32
+lamda Cepheus | 15.9
+theta Cetus | 16.18
+nu Fornax | 16.28
+Nodus 11 delta Draco | 17.15
+epsilon Pisces | 17.48
+delta Cepheus | 17.57
+tau Cetus | 17.78
+lamda Andromeda | 18.23
+iota Eridanus | 18.72
+upsilon Cetus | 19.37
+epsilon Reticulum | 19.55
+delta Andromeda | 21.77
+Baton Kaitos zeta Cetus | 21.9
+pi Andromeda | 22.63
+Acamar theta Eridanus | 23.22
+Kurdah xi Cepheus | 24.18
+nu Pisces | 25.47
+delta Dorado | 26.22
+Al Pherg eta Pisces | 26.77
+e Eridanus | 27.08
+sigma Pisces | 27.17
+xi Pisces | 27.47
+omicron Pisces | 27.7
+tau Pisces | 28.27
+upsilon Pisces | 28.73
+mu Andromeda | 29.13
+Alrisha alpha Pisces | 29.32
+Mirach beta Andromeda | 30.35
+Mira omicron Cetus | 31.47
+tau Eridanus (1) | 32.05
+Angetenar tau Eridanus (2) | 32.58
+Tyl epsilon Draco | 32.67
+Mesarthim gamma Aries | 33.13
+iota Cepheus | 33.2
+Sheratan beta Aries | 33.92
+tau Eridanus (11) | 34.48
+y Eridanus | 34.87
+zeta Cassiopeia | 35.02
+Caph beta Cassiopeia | 35.07
+Alphirk beta Cepheus | 35.52
+phi Andromeda | 36.38
+gamma Dorado | 36.48
+Metallah alpha Triangulum | 36.82
+xi Cetus | 37.42
+delta Cetus | 37.52
+Hamal alpha Aries | 37.62
+Scheider alpha Cassiopeia | 37.73
+alpha Dorado | 37.77
+Adhil xi Andromeda | 37.82
+Azha eta Eridanus | 38.7
+h Eridanus | 38.87
+Kaffalijidhma gamma Cetus | 39.38
+Achird eta Cassiopeia | 39.55
+tau Eridanus (16) | 40.05
+f Eridanus | 40.5
+g Eridanus | 41.7
+mu Cetus | 41.88
+beta Triangulum | 42.3
+gamma Triangulum | 43.47
+Zibal zeta Eridanus | 43.77
+Cih gamma Cassiopeia | 43.88
+sigma Eridanus | 43.93
+tau Eridanus | 44.15
+Alamak gamma Andromeda | 44.18
+Menkar alpha Cetus | 44.27
+lamda Cetus | 45.05
+alpha Horologium | 45.77
+tau 6 Eridanus | 47.32
+Rucha delta Cassiopeia | 47.88
+epsilon Eridanus | 48.13
+41 Aries | 48.15
+zeta Dorado | 48.62
+tau 8 Eridanus | 48.82
+beta Fornax | 49.88
+delta Caelum | 49.93
+upsilon Draco | 50.28
+Botein delta Aries | 50.8
+Rana delta Eridanus | 50.82
+pi Eridanus | 50.92
+omicron (1) Taurus | 51.12
+xi Taurus | 51.87
+beta Dorado | 52.03
+upsilon (41) Eridanus | 52.45
+pi Cepheus | 53.5
+Zaurak gamma Eridanus | 53.82
+h Perseus | 54.15
+chi Perseus | 54.22
+upsilon (43) Eridanus | 54.43
+Segin epsilon Cassiopeia | 54.77
+alpha Caelum | 56.1
+Algol beta Perseus | 56.12
+Misam kappa Perseus | 57.65
+tau Perseus | 57.87
+Miram eta Perseus | 58.65
+iota Perseus | 59.2
+beta Caelum | 59.33
+Electra 17 Taurus | 59.37
+Beid omicron 1 Eridanus | 59.38
+upsilon Eridanus (50) | 59.45
+Taygeta 19 Taurus | 59.52
+Maia 20 Taurus | 59.63
+Merope 23 Taurus | 59.65
+Asterope 21 Taurus | 59.7
+Alcyone eta Taurus | 59.95
+gamma Perseus | 59.98
+Alrai gamma Cepheus | 60.05
+Atlas 27 Taurus | 60.3
+Pleione 28 Taurus | 60.33
+lamda Taurus | 60.58
+Atiks omicron Perseus | 61.08
+Mirfak alpha Perseus | 62.03
+zeta Perseus | 63.08
+nu Perseus | 63.78
+delta Perseus | 64.75
+Menkib xi Perseus | 64.93
+Sceptrum 53 Eridanus | 65.2
+epsilon Perseus | 65.63
+nu Eridanus | 66.77
+Hyadum 11 delta Taurus | 66.82
+thetaTaurus | 67.9
+gamma Caelum | 68.35
+Ain epsilon Taurus | 68.42
+mu Eridanus | 69.28
+upsilon Perseus | 69.45
+lamda Perseus | 69.7
+Aldebaran alpha Taurus | 69.73
+mu Perseus | 70.75
+Camelopardalis | 70.95
+omega Eridanus (61) | 71.0
+Psi Draco | 71.05
+Tabit p i3 Orion (1) | 71.87
+epsilon Lepus | 72.0
+pi 4 Orion (3) | 72.05
+pi 2 Orion (2) | 72.32
+pi 5 Orion | 72.45
+pi 6 Orion (10) | 73.48
+Cursa beta Eridanus | 75.23
+mu Lepus | 75.35
+chi Draco | 75.97
+Hasseleh iota Auriga | 76.58
+iota Taurus | 76.73
+Rigel beta Orion | 76.78
+tau Orion (20) | 77.8
+Hoedus 1 zeta Auriga | 78.58
+epsilon Columba | 78.65
+epsilon Auriga | 78.8
+7 Camelopardalis | 79.22
+Hoedus 11 eta Auriga | 79.4
+Nihal beta Lepus | 79.62
+eta Orion | 80.12
+Bellatrix gamma Orion | 80.9
+alpha Camelopardalis | 80.93
+beta Camelopardalis | 81.22
+Arneb alpha Lepus | 81.33
+Capella alpha Auriga | 81.82
+nu Orion | 81.87
+Phact alpha Columba | 82.12
+gamma Pictor | 82.13
+Mintaka delta Orion | 82.32
+omicron (114) Taurus | 82.45
+beta Pictor | 82.5
+Elnath beta Taurus | 82.53
+theta Orion | 82.93
+Hatysa iota Orion | 82.95
+Alnilam epsilon Orion | 83.42
+Meissa lamda Orion | 83.65
+sigma Orion | 84.05
+Alnitak zeta Orion | 84.63
+Al Hecka zeta Taurus | 84.73
+gamma Lepus | 84.8
+zeta Lepus | 85.93
+Saiph kappa Orion | 86.35
+Wazn beta Columba | 86.37
+delta Lepus | 87.12
+upsilon Auriga | 88.12
+Polaris alpha Ursa Minor | 88.52
+chi Orion | 88.63
+Betelgeuse alpha Orion | 88.7
+eta Lepus | 88.85
+gamma Columba | 88.98
+eta Columba | 89.57
+Menkalinan beta Auriga | 89.87
+theta Auriga | 89.88
+mu Orion (61) | 90.55
+chi Orion (62) | 90.87
+Yildun delta Ursa Minor | 91.15
+36 Camelopardalis | 91.73
+mu Orion (67) | 91.8
+xi Orion | 92.88
+2 Lynx | 93.05
+Propus eta Gemini | 93.38
+gamma Monoceros | 94.2
+Tejat Posterior mu Gemini | 95.25
+nu Gemini | 96.75
+Mirzam beta Canis Major | 97.13
+Furud zeta Canis Major | 97.33
+beta Monoceros | 98.23
+delta Columba | 98.38
+Alhena gamma Gemini | 99.05
+epsilon Ursa Minor | 99.08
+5 Lynx | 99.1
+Mebsuta epsilon Gemini | 99.88
+theta Gemini | 101.07
+Alzirr xi Gemini | 101.17
+Dziban psi Draco | 103.72
+Sirius alpha Canis Major | 104.05
+Mekbuda zeta Gemini | 104.95
+21 Lynx | 105.65
+nu Puppis ( Argo ) | 107.1
+Wasat delta Gemini | 108.47
+lamda Gemini | 108.73
+iota Gemini | 108.92
+rho Gemini | 109.03
+delta Monoceros | 109.48
+Castor alpha Gemini | 110.2
+Adara epsilon Canis Major | 110.72
+omicron Canis Major | 110.95
+upsilon Gemini | 111.3
+Gomeisa beta Canis Minor | 112.15
+sigma Gemini | 112.58
+pi Ursa Major | 112.77
+Pollux beta Gemini | 113.18
+Wezen delta Canis Major | 113.35
+kappa Gemini | 113.62
+zeta Ursa Minor | 117.35
+31 Lynx | 117.52
+tau Puppis ( Argo ) | 117.68
+alpha Monoceros | 119.02
+Aludra eta Canis Major | 119.5
+pi Puppis ( Argo ) | 120.27
+h Ursa Major | 120.77
+Talitha iota Ursa Major | 122.75
+L Puppis ( Argo ) | 123.38
+K Puppis ( Argo ) | 123.42
+kappa Ursa Major | 123.88
+Al Tarf beta Cancer | 124.22
+zeta Monoceros | 124.83
+Azmidiske xi Puppis (Argo ) | 126.0
+upsilon Ursa Major | 126.22
+iota Cancer | 126.3
+theta Ursa Major | 127.22
+36 Lynx | 127.25
+Praesepe epsilon Cancer | 127.28
+sigma Puppis ( Argo ) | 128.65
+phi Ursa Major | 129.3
+delta Hydra | 130.25
+Giansar lamda Draco | 130.28
+38 Lynx | 130.52
+sigma Hydra | 131.17
+rho Puppis ( Argo ) | 131.35
+alpha Lynx | 131.8
+omega Draco | 132.2
+eta Hydra | 132.25
+epsilon Hydra | 132.3
+rho Hydra | 132.87
+Kochab beta Ursa Minor | 133.25
+Acubens alpha Cancer | 133.6
+zeta Hydra | 134.53
+Dubhe alpha Ursa Major | 135.15
+kappa Draco | 136.2
+Alterf lamda Leo | 137.82
+Naos zeta Puppis ( Argo ) | 138.52
+Merak beta Ursa Major | 139.38
+theta Hydra | 140.23
+21 Leo Minor | 140.95
+Pherkad gamma Ursa Minor | 141.53
+Subra omicron Leo | 144.2
+beta Leo Minor | 144.48
+gamma Pyxis ( Argo ) | 145.43
+alpha Pyxis ( Argo ) | 146.47
+beta Pyxis ( Argo ) | 146.77
+Alfard alpha Hydra | 147.23
+Adhafera zeta Leo | 147.52
+iota Hydra | 147.6
+Al Jabhah eta Leo | 147.85
+psi Ursa Major | 148.77
+Algieba gamma Leo | 149.57
+Regulus alpha Leo | 149.78
+Phecda gamma Ursa Major | 150.42
+chi Carina ( Argo ) | 150.7
+Megrez delta Ursa Major | 151.0
+gamma Sextans | 153.22
+El Kophrah chi Ursa Major | 153.62
+alpha Sextans | 154.07
+upsilon Hydra | 155.65
+rho Leo | 156.33
+Alula Boreale nu Ursa Major | 156.6
+Alula Australe xi Ursa Major | 157.3
+Thuban alpha Draco | 157.4
+Alioth epsilon Ursa Major | 158.87
+lamda Hydra | 159.32
+beta Sextans | 159.45
+epsilon Antlia | 160.97
+Alsuhail lamda Vela (Argo ) | 161.15
+Zosma delta Leo | 161.27
+Coxa theta Leo | 163.37
+psi Vela ( Argo ) | 164.7
+mu Hydra | 165.0
+Mizar zeta Ursa Major | 165.63
+Alcor 80 Ursa Major | 165.82
+delta Vela ( Argo ) | 168.92
+gamma Hydra | 170.32
+Denebola beta Leo | 171.57
+alpha Antlia | 172.57
+Avior epsilon Carina (Argo ) | 173.1
+Alkes alpha Crater | 173.65
+gamma Coma Berenices | 173.83
+12 Coma Berenices | 174.05
+nu Virgo | 174.12
+epsilon Crater | 176.2
+Labrum delta Crater | 176.65
+Alkaid eta Ursa Major | 176.88
+q Vela ( Argo ) | 176.95
+Zavijava beta Virgo | 177.1
+beta Crater | 178.52
+theta Crater | 178.55
+Markeb kappa Vela ( Argo ) | 178.85
+gamma Crater | 179.18
+kappa Bootes | 179.9
+theta Bootes | 182.55
+iota Antlia | 183.0
+Nodus 1 zeta Draco | 183.27
+zeta Crater | 184.02
+beta Coma Berenices | 184.33
+Zaniah eta Virgo | 184.47
+Edasich iota Draco | 184.88
+Tureis iota Carina (Argo ) | 185.32
+phi Vela ( Argo ) | 185.92
+eta Crater | 186.05
+lamda Bootes | 186.92
+p Leo | 187.35
+xi Hydra | 187.95
+Vindemiatrix epsilon Virgo | 189.9
+Porrima gamma Virgo | 190.1
+mu Vela ( Argo ) | 190.47
+Auva delta Virgo | 191.42
+Minkar epsilon Corvus | 191.62
+Alchita alpha Corvus | 192.2
+beta Hydra | 193.4
+eta Draco | 194.42
+beta Volans | 195.13
+Merga 38 Bootes | 195.38
+Theta Draco | 196.62
+Kraz beta Corvus | 197.32
+Seginus gamma Bootes | 197.62
+theta Virgo | 198.18
+Mufrid eta Bootes | 199.28
+delta Volans | 199.43
+? Centaurus | 200.02
+alpha Volans | 200.57
+rho Bootes | 200.65
+Heze zeta Virgo | 201.83
+Foramen eta Carina (Argo ) | 202.12
+pi Centaurus | 202.15
+upsilon Carina ( Argo ) | 202.85
+Spica alpha Virgo | 203.8
+epsilon Volans | 204.15
+Arcturus alpha Bootes | 204.18
+Nekkar beta Bootes | 204.2
+gamma Hydra (46) | 206.97
+delta Centaurus | 207.43
+tau Virgo | 207.7
+Izar epsilon Bootes | 208.05
+rho Centaurus | 209.35
+gamma Centaurus | 212.28
+zeta Bootes | 212.98
+Princeps delta Bootes | 213.05
+iota Centaurus | 213.08
+Alkalurops mu Bootes | 213.13
+Syrma iota Virgo | 213.75
+kappa Virgo | 214.45
+lamda Centaurus | 214.5
+Ceginus phi Bootes | 215.05
+delta Crux | 215.62
+xi Centaurus | 216.67
+Gacrux gamma Crux | 216.7
+omega Carina ( Argo ) | 217.4
+chi Hercules | 218.18
+109 Virgo | 218.47
+49 Hydra | 218.58
+theta Corona Borealis | 219.4
+gamma Volans | 219.85
+mu Virgo | 220.08
+nu Centaurus | 221.12
+mu Centaurus | 221.48
+theta Hercules | 221.58
+Mimosa beta Crux | 221.6
+Acrux alpha Crux | 221.83
+Menkent theta Centaurus | 222.27
+tau Hercules | 224.33
+gamma Corona Borealis | 224.82
+zeta Centaurus | 224.9
+Zuben Elakribi delta Libra | 225.23
+epsilon Centaurus | 225.52
+zeta Volans | 225.73
+zeta 2 Musca | 226.48
+delta Corona Borealis | 226.98
+iota Serpens | 227.13
+zeta (1) Musca | 227.52
+delta Serpens | 228.3
+Zuben Hakrabi nu Libra | 228.72
+iota Corona Borealis | 228.97
+epsilon Corona Borealis | 229.07
+rho Serpens | 229.47
+kappa Serpens | 229.73
+beta Serpens | 229.9
+beta Musca | 230.12
+eta Centaurus | 230.2
+alpha Musca | 230.33
+sigma Libra | 230.63
+iota Libra | 230.95
+Unukalhai alpha Serpens | 232.02
+gamma Serpens | 232.72
+sigma Hercules | 233.18
+alpha Lupus | 233.45
+Agena beta Centaurus | 233.75
+gamma Musca | 233.98
+epsilon Serpens | 234.28
+Arrakis mu Draco | 234.7
+beta Lupus | 234.98
+kappa Centaurus | 235.12
+Marsik kappa Hercules | 235.67
+mu Serpens | 235.88
+delta Musca | 236.15
+theta Lupus | 237.45
+lamda Lupus | 237.67
+delta Lupus | 238.62
+eta Hercules | 238.73
+upsilon Libra | 238.85
+gamma Hercules | 239.17
+alpha Chamaeleon | 239.27
+tau Libra | 239.3
+Toliman alpha Centaurus | 239.5
+epsilon Lupus | 240.08
+gamma Chamaeleon | 240.38
+zeta Lupus | 240.72
+Kornephoros beta Hercules | 241.05
+zeta Hercules | 241.42
+gamma Lupus | 241.45
+Kajam omega Hercules | 241.52
+Yed Prior delta Ophiuchus | 242.25
+alpha Circinus | 242.32
+Dschubba delta Scorpio | 242.52
+chi Lupus | 242.8
+pi Scorpio | 242.9
+rho Scorpio | 243.1
+Acrab beta Scorpio | 243.13
+beta Circinus | 244.27
+Jabbah nu Scorpio | 244.6
+beta Chamaeleon | 245.4
+Marfik lamda Ophiuchus | 245.55
+eta Lupus | 245.72
+sigma Scorpio | 247.75
+epsilon Hercules | 248.28
+delta Norma | 248.47
+eta Norma | 248.82
+Han zeta Ophiuchus | 249.18
+Antares alpha Scorpio | 249.72
+Kuma nu Draco | 250.27
+epsilon Triangulum Australe | 250.43
+tau Scorpio | 251.42
+1 gamma Norma | 251.5
+kappa Ophiuchus | 251.78
+beta Triangulum Australe | 251.8
+pi Hercules | 251.92
+2 gamma Norma | 252.02
+epsilon Norma | 252.82
+alpha Apus | 255.38
+Sarin delta Hercules | 254.72
+epsilon Scorpio | 255.3
+rho Hercules | 255.32
+Ras Algethi alpha Hercules | 256.1
+Grafias zeta 2 Scorpio | 257.18
+Sabik eta Ophiuchus | 257.92
+eta Ara | 258.85
+delta Octans | 258.98
+epsilon Ara | 259.53
+zeta Ara | 259.77
+iota Hercules | 259.83
+Maasym lamda Hercules | 259.85
+eta Scorpio | 260.7
+theta Ophiuchus | 261.02
+gamma Apus | 262.65
+beta Apus | 262.9
+Lesath upsilon Scorpio | 263.97
+beta Ara | 264.15
+gamma Ara | 264.25
+xi Serpens | 264.5
+Shaula lamda Scorpio | 264.53
+Grumium xi Draco | 264.7
+alpha Ara | 264.88
+mu Hercules | 265.18
+Kelb Alrai beta Ophiuchus | 265.28
+omicron Serpens | 265.35
+delta Ara | 265.52
+Sargas theta Scorpio | 265.55
+Aculeus NGC6405 Scorpio | 265.67
+kappa Scorpio | 266.4
+gamma Ophiuchus | 266.58
+Galactic Center | 266.8
+iota Scorpio | 267.47
+G Scorpio | 267.87
+Etamin gamma Draco | 267.92
+Acumen NGC6475 Scorpio | 268.68
+Sinistra nu Ophiuchus | 269.7
+pi Pavo | 271.2
+Alnasl gamma Sagittarius | 271.22
+omicron Hercules | 272.65
+Polis mu Sagittarius | 273.15
+xi Pavo | 273.47
+alpha Telescopium | 275.02
+zeta Pavo | 275.07
+zeta Telescopium | 275.18
+eta Serpens | 275.63
+theta Corona Australis | 276.5
+kappa Corona Australis | 276.72
+gamma Scutum | 277.1
+kappa Pavo | 277.58
+lamda Pavo | 277.75
+lamda Corona Australis | 278.83
+alpha Scutum | 278.97
+eta Corona Australis | 279.52
+theta Sagittarius | 280.13
+epsilon Corona Australis | 281.98
+zeta Corona Australis | 282.3
+beta Scutum | 282.33
+epsilon Pavo | 283.48
+delta Corona Australis | 283.53
+gamma Corona Australis | 283.57
+Ascella zeta Sagittarius | 283.58
+beta Corona Australis | 284.02
+alpha Corona Australis | 284.08
+tau Sagittarius | 284.78
+Vega alpha Lyra | 285.27
+Alya theta Serpens | 285.7
+12 Aquila | 286.0
+Albaldah pi Sagittarius | 286.2
+Rukbat alpha Sagittarius | 286.58
+lamda Aquila | 287.28
+delta Pavo | 287.55
+beta Octans | 287.97
+zeta Lyra | 288.07
+epsilon Aquila | 288.22
+epsilon Lyra | 288.58
+Sheliak beta Lyra | 288.83
+nu Octans | 289.63
+Dheneb zeta Aquila | 289.75
+delta Lyra | 291.35
+Sulaphat gamma Lyra | 291.88
+beta Pavo | 292.45
+Deneb Okab delta Aquila | 293.58
+Peacock alpha Pavo | 293.77
+1 Vulpecula | 294.6
+iota Aquila | 295.78
+beta Indus | 297.73
+gamma Pavo | 298.55
+alpha Indus | 299.05
+alpha Vulpecula | 299.47
+eta Aquila | 300.38
+beta Hydrus | 300.88
+Tarazed gamma Aquila | 300.9
+Sham alpha Sagitta | 301.03
+beta Sagitta | 301.17
+Albireo beta Cygnus | 301.2
+Altair alpha Aquila | 301.72
+Alshain beta Aquila | 302.38
+delta Sagitta | 303.35
+Dahib beta Capricorn | 304.0
+theta Indus | 304.15
+Alshat nu Capricorn | 304.38
+Oculus pi Capricorn | 304.67
+theta Aquila | 304.87
+Bos rho Capricorn | 305.12
+alpha Microscopium | 305.58
+13 Vulpecula | 307.0
+psi Capricorn | 307.12
+omega Capricorn | 307.92
+gamma Microscopium | 308.38
+alpha Tucana | 309.62
+delta Indus | 309.75
+chi Cygnus | 309.83
+gamma Hydrus | 310.4
+Albali epsilon Aquarius | 311.68
+epsilon Microscopium | 311.88
+Armus eta Capricorn | 312.68
+eta Cygnus | 312.88
+Dorsum theta Capricorn | 313.8
+Alnair alpha Grus | 315.85
+delta Cygnus | 316.22
+Rotanev beta Delphinus | 316.3
+zeta Capricorn | 316.88
+iota Pisces Austrinus | 317.2
+Sualocin alpha Delphinus | 317.33
+gamma Grus | 317.37
+iota Capricorn | 317.63
+delta Delphinus | 318.07
+lamda Grus | 318.88
+gamma Delphinus | 319.32
+mu Grus | 319.95
+Castra epsilon Capricorn | 320.15
+gamma Tucana | 320.38
+epsilon Grus | 320.68
+delta Grus | 321.55
+Nashira gamma Capricorn | 321.73
+zeta Grus | 321.88
+mu Pisces Austrinus | 322.03
+zeta Tucana | 322.27
+tau Pisces Austrinus | 322.6
+Kitalpha alpha Equuleus | 323.07
+Sadalsuud beta Aquarius | 323.35
+delta Equuleus | 324.4
+Sador gamma Cygnus | 324.82
+beta Tucana | 326.53
+beta Pisces Austrinus | 327.13
+delta Hydrus | 329.12
+epsilon Pisces Austrinus | 331.2
+gamma Pisces Austrinus | 331.28
+Enif epsilon Pegasus | 331.83
+epsilon Hydrus | 331.85
+delta Pisces Austrinus | 332.15
+zeta Cygnus | 333.0
+Ancha theta Aquarius | 333.22
+Sadalmelik alpha Aquarius | 333.7
+Deneb Adige alpha Cygnus | 335.28
+Biham theta Pegasus | 336.78
+gamma Sculptor | 336.95
+beta Sculptor | 337.18
+tau Aquarius | 337.95
+pi Aquarius | 338.55
+Skat delta Aquarius | 338.82
+zeta Aquarius | 338.87
+kappa Pegasus | 338.88
+Situla kappa Aquarius | 339.37
+epsilon Phoenix | 339.6
+88 Aquarius | 339.97
+eta Aquarius | 340.35
+lamda Aquarius | 341.53
+alpha Hydrus | 342.05
+zeta Phoenix | 342.32
+98 b Aquarius | 343.42
+99b Aquarius | 343.87
+iota Pegasus | 344.37
+kappa Phoenix | 344.47
+Achernar alpha Eridanus | 345.25
+Ankaa alpha Phoenix | 345.43
+delta Sculptor | 345.52
+Homan zeta Pegasus | 346.1
+psi Aquarius | 346.25
+psi2 Aquarius | 346.68
+theta Aquarius | 347.08
+beta Pisces | 348.53
+103a Aquarius | 348.57
+106i Aquarius | 348.92
+107i Aquarius | 349.15
+pi Pegasus | 349.32
+omega Aquarius | 349.62
+108i Aquarius | 350.25
+beta Phoenix | 350.38
+beta Reticulum | 351.32
+gamma Pisces | 351.4
+kappa Pisces | 352.85
+lamda Pegasus | 353.02
+Markab alpha Pegasus | 353.43
+1 Lacerta | 353.97
+Sadalbari mu Pegasus | 354.33
+theta Pisces | 355.15
+Matar eta Pegasus | 355.67
+chi Eridanus | 356.17
+lamda Pisces | 356.55
+iota Pisces | 357.6
+gamma Phoenix | 358.08
+Azelfafage pi Cygnus | 358.23
+Scheat beta Pegasus | 359.33
+alpha Sculptor | 360.43
