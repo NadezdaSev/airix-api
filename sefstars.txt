@@ -1,3 +1,0 @@
-TEST | 123.45
-Spica | 204.95
-Antares | 249.85
