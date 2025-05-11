@@ -1,7 +1,0 @@
-fastapi==0.110.0
-uvicorn==0.29.0
-flatlib==0.2.3
-pydantic==2.6.4
-pyswisseph==2.08.00-1
-python-dateutil
-pyyaml
